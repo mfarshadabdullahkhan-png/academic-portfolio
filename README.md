@@ -1,4 +1,4 @@
-# academic-portfolio
+# Academic-portfolio
 Academic portfolio, technical certificates, and cybersecurity research of Muhammad Farshad Abdullah Khan for international undergraduate scholarship applications
 # 💻 Technical Portfolio & Academic Research
 
@@ -7,16 +7,6 @@ Academic portfolio, technical certificates, and cybersecurity research of Muhamm
 * **Location:** Islamabad, Pakistan 🇵🇰
 * **Education:** Intermediate in Computer Science (ICS Graduate)
 * **Core Interests:** Artificial Intelligence, Information Security, Advanced Data Analytics
-
----
-
-## 🔍 Cybersecurity Research & Vulnerability Analysis
-
-### Microsoft SharePoint "ToolShell" Zero-Day Attack Analysis (CVE-2025-53770)
-* **Lead Researcher:** Muhammad Farshad Abdullah Khan
-* **Overview:** Independent analytical deep-dive into critical unpatched SharePoint structural flaws. Focused on threat modeling, post-exploitation behavior, and engineering mitigation protocols to secure enterprise network architectures.
-
-![Cybersecurity Research Slide](SharePoint-Zero-Day-Research.png)
 
 ---
 
